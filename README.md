@@ -1,4 +1,4 @@
-# eCF
+# oCF
 
 This is a simple GUI-based Python script that crawls a website starting from a given URL, identifies and downloads files with common downloadable extensions.
 
@@ -22,7 +22,7 @@ This is a simple GUI-based Python script that crawls a website starting from a g
 
 ## Installation
 
-1.  **Clone or download the script:** Get the `eCF.py` file.
+1.  **Clone or download the script:** Get the `oCF.py` file.
 2.  **Install required libraries:** Open your terminal or command prompt and run:
     ```bash
     pip install requests beautifulsoup4
@@ -32,7 +32,7 @@ This is a simple GUI-based Python script that crawls a website starting from a g
 
 1.  **Run the script:** Open your terminal or command prompt, navigate to the directory where you saved the script, and run:
     ```bash
-    python eCF.py
+    python oCF.py
     ```
 2.  **Enter Start URL:** In the "Start URL" field, enter the full URL of the website you want to start crawling from (e.g., `https://www.example.com`). Make sure it starts with `http` or `https`.
 3.  **Select Save Folder (Optional but Recommended):** Click the "Select Save Folder" button to choose the directory where the downloaded files will be saved. By default, files will be saved in the same directory as the script.
