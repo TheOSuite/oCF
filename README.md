@@ -1,5 +1,9 @@
 # oCF.py - File Crawler Bot
 
+![GitHub License](https://img.shields.io/github/license/TheOSuite/oCF)
+![Python Version](https://img.shields.io/badge/python-3.13-blue)
+![Last Updated](https://img.shields.io/date/2025-07-21)
+
 This is a GUI-based Python script that crawls a website starting from a given URL, identifies and downloads files with common downloadable extensions using a breadth-first search (BFS) approach for improved performance.
 
 ## Features
